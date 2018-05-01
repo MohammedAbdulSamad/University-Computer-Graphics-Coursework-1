@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=X\ Y\ Z
+comment0.target=Vector3D(double,\ double,\ double)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=m
+comment2.target=Vector3D\ transform(Matrix)
+comment3.params=
+comment3.target=double\ L2norm()
+comment4.params=v
+comment4.target=double\ dotProduct(Vector3D)
+comment5.params=v
+comment5.target=Vector3D\ crossProduct(Vector3D)
+comment6.params=
+comment6.target=void\ normalize()
+numComments=7

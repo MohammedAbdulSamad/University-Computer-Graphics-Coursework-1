@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ParallelAnimator()
+comment1.params=
+comment1.target=void\ setupCamera()
+comment2.params=g
+comment2.target=void\ animate(java.awt.Graphics)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

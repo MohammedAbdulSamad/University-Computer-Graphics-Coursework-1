@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Matrix()
+comment1.params=
+comment1.target=void\ setIdentity()
+comment2.params=a
+comment2.target=Matrix\ multiply(Matrix)
+comment3.params=tx\ ty\ tz
+comment3.target=void\ setTranslation(double,\ double,\ double)
+comment4.params=a
+comment4.target=void\ setRotationX(double)
+comment5.params=a
+comment5.target=void\ setRotationY(double)
+comment6.params=a
+comment6.target=void\ setRotationZ(double)
+comment7.params=
+comment7.target=Matrix\ inverse()
+numComments=8

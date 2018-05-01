@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vector3D\ getVPN()
+comment1.params=p
+comment1.target=Point3D\ cameraTransform(Point3D)
+comment2.params=p
+comment2.target=Point3D\ projectionTransform(Point3D)
+comment3.params=xmin_\ xmax_\ ymin_\ ymax_
+comment3.target=PerspectiveCamera(double,\ double,\ double,\ double)
+comment4.params=cop_
+comment4.target=void\ setupCOP(Point3D)
+comment5.params=vrp_\ vpn_\ vuv_
+comment5.target=void\ setupUVN(Point3D,\ Vector3D,\ Vector3D)
+numComments=6
